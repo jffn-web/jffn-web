@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Neto!
 
-<!--
-**jffn-web/jffn-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** na **Cesar School** e apaixonado por tecnologia.  
+Gosto de explorar novas áreas da computação, entender como as coisas funcionam e transformar ideias em projetos reais.  
+Atualmente, estou aprendendo **Arduino**, **JavaScript** e **programação web**, buscando unir hardware e software para criar soluções criativas e funcionais.
 
-Here are some ideas to get you started:
+## 🌱 Interesses
+- 💻 Programação e desenvolvimento de software  
+- 🌐 Redes e Internet  
+- ☁️ Fundamentos de computação em nuvem  
+- 🔒 Segurança da informação  
+- 🎮 Jogos e design interativo  
+- 🤖 Eletrônica e automação com Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## 📫 Contato
+- [Instagram](https://www.instagram.com/joaofalcaoneto_/)
+
+✨ Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus projetos e entrar em contato 😄
