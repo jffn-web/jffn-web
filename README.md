@@ -4,7 +4,7 @@ Sou estudante de **Ciência da Computação** na **Cesar School** e apaixonado p
 Gosto de explorar novas áreas da computação, entender como as coisas funcionam e transformar ideias em projetos reais.  
 Atualmente, estou aprendendo **Arduino**, **JavaScript** e **programação web**, buscando unir hardware e software para criar soluções criativas e funcionais.
 
-## 🌱 Interesses
+##  Interesses
 - 💻 Programação e desenvolvimento de software  
 - 🌐 Redes e Internet  
 - ☁️ Fundamentos de computação em nuvem  
@@ -16,5 +16,5 @@ Atualmente, estou aprendendo **Arduino**, **JavaScript** e **programação web**
 ## 📫 Contato
 - [Instagram](https://www.instagram.com/joaofalcaoneto_/)
 
-✨ Obrigado por visitar meu perfil!  
+ Obrigado por visitar meu perfil!  
 Sinta-se à vontade para explorar meus projetos e entrar em contato 😄
