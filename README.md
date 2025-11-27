@@ -15,6 +15,7 @@ Atualmente, estou aprendendo **Arduino**, **JavaScript** e **programação web**
   
 ## 📫 Contato
 - [Instagram](https://www.instagram.com/joaofalcaoneto_/)
+- [LinkedIn](https://www.linkedin.com/in/joão-falcão-ferraz-neto-b8787939a)
 
  Obrigado por visitar meu perfil!  
 Sinta-se à vontade para explorar meus projetos e entrar em contato 😄
